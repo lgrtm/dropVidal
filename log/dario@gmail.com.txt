@@ -1,0 +1,7 @@
+04-04-2013 06:34:54 - Accedido al sistema.
+04-04-2013 06:35:28 - Crea la carpeta dario@gmail.com/IMAGENES.
+04-04-2013 06:35:43 - Sube el archivo CARPETAS/dario@gmail.com/IMAGENES/1365057343-carpeta.sql.
+04-04-2013 06:35:43 - Sube el archivo CARPETAS/dario@gmail.com/IMAGENES/1365057343-civid.sql.
+04-04-2013 06:35:48 - Mueve el archivo CARPETAS/dario@gmail.com/IMAGENES/1365057343-carpeta.sql a CARPETAS/dario@gmail.com/.
+04-04-2013 06:35:56 - Elimina el archivo CARPETAS/dario@gmail.com/1365057343-carpeta.sql.
+04-04-2013 06:36:03 - Crea la carpeta dario@gmail.com/rewjljkewrjkewr.

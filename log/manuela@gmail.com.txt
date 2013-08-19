@@ -1,0 +1,3 @@
+07-05-2013 08:29:25 - Accedido al sistema.
+07-05-2013 08:29:31 - Crea la carpeta manuela@gmail.com/manu.
+07-05-2013 08:33:55 - Salida del sistema.
